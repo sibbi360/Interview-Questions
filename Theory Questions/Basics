@@ -1,0 +1,29 @@
+// JAVASCRIPT
+what is a predicate ? Show an example
+what is event loop? Explain in detail?
+Event Propagation and Event Delegation? Real time example.
+Ways to deep clone an object?
+'this' keyword? Arrow and General function?
+What is the purpose of Arrow function?
+Currying and Generators?
+Hoisting? 
+Closures? Purpose of  Closures?
+Can we push an element to an array which is defined with 'const'? why?
+What are promises in detail? How is it different from async and await?
+What does call, apply and bind do? What are the alternatives?
+If we can directly call a function why do we need call apply and bind?
+Difference beyween async and defer
+Differences between cookies , localStorage and sessionStorage?
+Prototype
+
+
+
+// ANGULAR
+Smart Components and Dumb Components?
+Can we inject a service without constructor?
+what are signals?
+Generics Types
+
+
+
+
